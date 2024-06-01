@@ -11,7 +11,7 @@ const findSquare = (number) => number **2;
 console.log(findSquare(-18));
 
 //Using Math.pow Function
-const findSquareNum =(number)=>{
-    return Math.pow (number, 2);
+const findSquareNum = (number) => {
+    return Math.pow(number, 2);
 }
-console.log (findSquareNum(5));
+console.log(findSquareNum(5));
